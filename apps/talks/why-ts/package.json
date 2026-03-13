@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "slidev",
-    "build": "slidev build",
+    "build": "slidev build --base /talks/why-ts/ --out ../../web/public/talks/why-ts",
     "export": "slidev export"
   }
 }

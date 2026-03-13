@@ -1,0 +1,4 @@
+{
+  "name": "web",
+  "implicitDependencies": ["talk-why-ts"]
+}
