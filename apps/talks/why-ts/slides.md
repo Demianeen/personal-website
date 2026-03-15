@@ -36,9 +36,9 @@ TypeScript London
 
 # Why am I here?
 
-At the last TypeScript London meetup, I met David.
+At the last TypeScript London meetup, I met Daniel.
 
-David was trying TypeScript and couldn't understand why people use it when JavaScript is so much simpler.
+Daniel was trying TypeScript and couldn't understand why people use it when JavaScript is so much simpler.
 
 <v-click>
 
@@ -120,7 +120,7 @@ A language built in 10 days for simple page interactions is now powering **massi
 ```js
 // api.js — someone renamed "username" to "name" last week
 function getUser() {
-  return { id: 1, name: "David", email: "david@ts.london" }
+  return { id: 1, name: "Daniel", email: "daniel@ts.london" }
 }
 ```
 
@@ -179,7 +179,7 @@ TypeScript is a **superset** of JavaScript.
 
 ```ts
 // This is valid TypeScript:
-const name = "David"
+const name = "Daniel"
 console.log(name)
 ```
 
@@ -398,11 +398,11 @@ Whether it's you or an AI writing the code, types give you **confidence** that t
 layout: section
 ---
 
-# So, David...
+# So, Daniel...
 
 ---
 
-# If you're here, or anyone who feels like David did
+# If you're here, or anyone who feels like Daniel did
 
 <v-clicks>
 
